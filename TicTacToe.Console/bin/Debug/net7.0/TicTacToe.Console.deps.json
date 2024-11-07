@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TicTacToe.Console/1.0.0": {
+        "dependencies": {
+          "TicTacToe.Logic": "1.0.0"
+        },
+        "runtime": {
+          "TicTacToe.Console.dll": {}
+        }
+      },
+      "TicTacToe.Logic/1.0.0": {
+        "runtime": {
+          "TicTacToe.Logic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TicTacToe.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TicTacToe.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

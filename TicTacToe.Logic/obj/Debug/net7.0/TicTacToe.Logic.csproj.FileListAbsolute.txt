@@ -1,0 +1,11 @@
+C:\Code\TicTacToe\TicTacToe.Logic\bin\Debug\net7.0\TicTacToe.Logic.deps.json
+C:\Code\TicTacToe\TicTacToe.Logic\bin\Debug\net7.0\TicTacToe.Logic.dll
+C:\Code\TicTacToe\TicTacToe.Logic\bin\Debug\net7.0\TicTacToe.Logic.pdb
+C:\Code\TicTacToe\TicTacToe.Logic\obj\Debug\net7.0\TicTacToe.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\TicTacToe\TicTacToe.Logic\obj\Debug\net7.0\TicTacToe.Logic.AssemblyInfoInputs.cache
+C:\Code\TicTacToe\TicTacToe.Logic\obj\Debug\net7.0\TicTacToe.Logic.AssemblyInfo.cs
+C:\Code\TicTacToe\TicTacToe.Logic\obj\Debug\net7.0\TicTacToe.Logic.csproj.CoreCompileInputs.cache
+C:\Code\TicTacToe\TicTacToe.Logic\obj\Debug\net7.0\TicTacToe.Logic.dll
+C:\Code\TicTacToe\TicTacToe.Logic\obj\Debug\net7.0\refint\TicTacToe.Logic.dll
+C:\Code\TicTacToe\TicTacToe.Logic\obj\Debug\net7.0\TicTacToe.Logic.pdb
+C:\Code\TicTacToe\TicTacToe.Logic\obj\Debug\net7.0\ref\TicTacToe.Logic.dll
